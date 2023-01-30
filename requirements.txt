@@ -1,0 +1,4 @@
+pyserial 
+nbconvert
+file_read_backwards
+pytest
