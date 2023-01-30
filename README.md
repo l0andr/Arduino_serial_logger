@@ -11,5 +11,5 @@ This option is useful and convenient for testing purposes, as it allows for test
 
 All of these functions will be performed in a separate process, so as not to block the main application's processing.
 
-<img source="img/exmp_0.png" align = center>
+<img src="img/exmp_0.png" align = center width=50% height=50%>
 
